@@ -1,5 +1,6 @@
-# EJERCICIO 1 Nombre: 
-Indica en cada caso las órdenes utilizadas: 
+# Sistemas 
+## EJERCICIO 1 - Belén Gamero García DAW 
+### Indica en cada caso las órdenes utilizadas: 
 1. Crea la siguiente estructura de carpetas:
  
 2. Sitúate en la carpeta TABLAS 
@@ -14,8 +15,8 @@ Indica en cada caso las órdenes utilizadas:
 11. Desde la carpeta raíz, crea en ella una subcarpeta llamada NUEVO 
 12. Desde PRACT muestra el contenido de WORD 
  
-# EJERCICIO 2 Nombre: 
-Indica en cada caso las órdenes utilizadas: 
+## EJERCICIO 2 
+### Indica en cada caso las órdenes utilizadas: 
 1. Utilizando el editor de textos de MS-DOS, crea un archivo de texto denominado EJER.TXT, con el
 siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la estructura del ejercicio anterior): 
 “La información dentro de los discos se almacena en forma de archivos. Un archivo o fichero es un conjunto de datos que MS-DOS almacena en un disco y cuyo control interno es realizado por el sistema operativo, aunque desde el punto de vista lógico el control es del usuario”.
@@ -31,8 +32,8 @@ siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la est
 9. Copia el archivo NUEVO.TXT en la carpeta NOTAS 
 10. ¿Cuántos archivos hay en la carpeta BASIC? ¿Y en NOTAS?
 
-# EJERCICIO 3 Nombre: 
-Indica en cada caso las órdenes utilizadas: 
+## EJERCICIO 3 
+### Indica en cada caso las órdenes utilizadas: 
 1. Borra la carpeta ACCESS y en su lugar crea una nueva carpeta llamada ASTRO.
 
 2. Crea la siguiente estructura de subcarpetas dentro de la carpeta ASTRO 
@@ -48,8 +49,8 @@ Indica en cada caso las órdenes utilizadas:
 “Kepler aplicó sus teorías a los satélites de Júpiter, descubiertos por Galileo a través de un pequeño telescopio, cuya introducción en la observación astronómica constituye uno de los hitos de la astronomía.” 
 10. Cambia el nombre del archivo anterior por el de GALILEO.TXT
 
-# EJERCICIO 4 Nombre: 
-Indica en cada caso las órdenes utilizadas: 
+## EJERCICIO 4
+### Indica en cada caso las órdenes utilizadas: 
 1. Crea en la carpeta raíz de la unidad A: una carpeta denominada TECINFO
   
 2. Crea dentro de TECINFO el siguiente archivo de texto y llámalo HARD.TXT 
