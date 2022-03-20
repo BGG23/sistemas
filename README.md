@@ -51,8 +51,11 @@
 ### Indica en cada caso las órdenes utilizadas: 
 1. Utilizando el editor de textos de MS-DOS, crea un archivo de texto denominado EJER.TXT, con el
 siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la estructura del ejercicio anterior): 
+
 “La información dentro de los discos se almacena en forma de archivos. Un archivo o fichero es un conjunto de datos que MS-DOS almacena en un disco y cuyo control interno es realizado por el sistema operativo, aunque desde el punto de vista lógico el control es del usuario”.
+
 ![image](https://user-images.githubusercontent.com/91567318/159174226-029fe9af-0ee5-4821-9d91-7553e5442233.png)
+![image](https://user-images.githubusercontent.com/91567318/159174597-ebb873b8-dd11-44f1-836b-ab37a37f0d9f.png)
 
 2. Copia el archivo EJER.TXT en AGENDA 
 3. Borra el archivo almacenado en la carpeta TEXTOS 
