@@ -2,24 +2,57 @@
 ## EJERCICIO 1 - Belén Gamero García DAW 
 ### Indica en cada caso las órdenes utilizadas: 
 1. Crea la siguiente estructura de carpetas:
- 
-2. Sitúate en la carpeta TABLAS 
+
+![image](https://user-images.githubusercontent.com/91567318/159172735-864e2496-e592-4f15-9e47-24d273d9a706.png)
+
+2. Sitúate en la carpeta TABLAS
+
+![image](https://user-images.githubusercontent.com/91567318/159172796-ca547a04-9770-4838-92c8-fee6b348fcd0.png)
+
 3. Vuelve a la carpeta raíz 
+
+![image](https://user-images.githubusercontent.com/91567318/159172875-e981b3bd-dab1-41c4-bc7f-6a9dd493bdd5.png)
+
 4. Muestra el contenido de la carpeta PROG 
+
+![image](https://user-images.githubusercontent.com/91567318/159172931-ac8d0014-f40f-47cf-8179-938e428ead62.png)
+
 5. Borra la carpeta PASCAL 
-6. Sitúate en la carpeta VARIOS y desde allí crea una nueva carpeta dentro de WORD llamado PRACT 
-7. Sitúate en PRACT y desde allí muestra el contenido de la carpeta EXCEL 
+
+![image](https://user-images.githubusercontent.com/91567318/159173141-69c43404-f4f9-4402-9440-5fc89cacf536.png)
+
+6. Sitúate en la carpeta VARIOS y desde allí crea una nueva carpeta dentro de WORD llamado PRACT.
+
+![image](https://user-images.githubusercontent.com/91567318/159173306-7eebec18-8bc2-40f8-a102-da5d2c54245e.png)
+ 
+7. Sitúate en PRACT y desde allí muestra el contenido de la carpeta EXCEL
+
+![image](https://user-images.githubusercontent.com/91567318/159173365-e0eb0e7b-cae8-43a4-a3e6-7e5fbe51817d.png)
+
 8. Desde TABLAS muestra el listado de archivos y carpetas de la carpeta raíz 
-9. Sitúate en la carpeta APLI y desde allí crea una subcarpeta llamada AGENDA dentro de VARIOS 
-10. Borra la carpeta EXCEL 
+
+![image](https://user-images.githubusercontent.com/91567318/159173449-8693e459-3bc1-4eb5-b350-c6e336dcf4b9.png)
+
+9. Sitúate en la carpeta APLI y desde allí crea una subcarpeta llamada AGENDA dentro de VARIOS
+
+![image](https://user-images.githubusercontent.com/91567318/159173518-751d3517-612f-4af9-a611-c696eea09fda.png)
+
+10. Borra la carpeta EXCEL CD
+![image](https://user-images.githubusercontent.com/91567318/159173612-a6bb500d-b759-4c47-9026-1e0f922c3a97.png)
+![image](https://user-images.githubusercontent.com/91567318/159173622-71b50e0d-4e0d-48a7-8370-c5fb59252bed.png)
+
 11. Desde la carpeta raíz, crea en ella una subcarpeta llamada NUEVO 
+![image](https://user-images.githubusercontent.com/91567318/159173662-df217b0b-2eda-4b75-9ef7-ee80d97e90c6.png)
+
 12. Desde PRACT muestra el contenido de WORD 
+![image](https://user-images.githubusercontent.com/91567318/159173793-b3a174da-8efe-400b-9838-a9d8e7604eb9.png)
  
 ## EJERCICIO 2 
 ### Indica en cada caso las órdenes utilizadas: 
 1. Utilizando el editor de textos de MS-DOS, crea un archivo de texto denominado EJER.TXT, con el
 siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la estructura del ejercicio anterior): 
 “La información dentro de los discos se almacena en forma de archivos. Un archivo o fichero es un conjunto de datos que MS-DOS almacena en un disco y cuyo control interno es realizado por el sistema operativo, aunque desde el punto de vista lógico el control es del usuario”.
+![image](https://user-images.githubusercontent.com/91567318/159174226-029fe9af-0ee5-4821-9d91-7553e5442233.png)
 
 2. Copia el archivo EJER.TXT en AGENDA 
 3. Borra el archivo almacenado en la carpeta TEXTOS 
