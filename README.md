@@ -1,4 +1,4 @@
-# Sistemas 
+c# Sistemas 
 ## EJERCICIO 1 - Belén Gamero García DAW 
 ### Indica en cada caso las órdenes utilizadas: 
 1. Crea la siguiente estructura de carpetas:
@@ -58,15 +58,30 @@ siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la est
 ![image](https://user-images.githubusercontent.com/91567318/159174597-ebb873b8-dd11-44f1-836b-ab37a37f0d9f.png)
 
 2. Copia el archivo EJER.TXT en AGENDA 
-3. Borra el archivo almacenado en la carpeta TEXTOS 
-4. Añade el siguiente párrafo al archivo EJER.TXT: 
-“Cada archivo tiene un nombre y una extensión que los distingue del resto de archivos” 
-5. Copia el archivo EJER.TXT en la carpeta BASIC 
-6. Cambia el nombre del archivo almacenado en AGENDA por FICHERO.TXT
-7. Mueve el archivo FICHERO.TXT a la carpeta BASIC 
-8. Abre el archivo EJER.TXT y borra la primera frase; almacena el nuevo archivo con el nombre NUEVO.TXT dentro de la carpeta BASIC 
-9. Copia el archivo NUEVO.TXT en la carpeta NOTAS 
-10. ¿Cuántos archivos hay en la carpeta BASIC? ¿Y en NOTAS?
+
+![image](https://user-images.githubusercontent.com/91567318/159337418-88a81555-4301-4052-b244-2bc1f3a0ec56.png)
+
+4. Borra el archivo almacenado en la carpeta TEXTOS
+
+![image](https://user-images.githubusercontent.com/91567318/159338001-243b20ca-6810-444f-9067-66a97db99014.png)
+
+5. Añade el siguiente párrafo al archivo EJER.TXT:
+“Cada archivo tiene un nombre y una extensión que los distingue del resto de archivos”.
+
+![image](https://user-images.githubusercontent.com/91567318/159340546-73c93c2d-5ba9-4b2d-a74a-f2db7c9729a4.png)
+
+6. Copia el archivo EJER.TXT en la carpeta BASIC 
+
+![image](https://user-images.githubusercontent.com/91567318/159340960-3f475438-37aa-4b57-9bf4-cac80babc4e8.png)
+
+7. Cambia el nombre del archivo almacenado en AGENDA por FICHERO.TXT
+
+![image](https://user-images.githubusercontent.com/91567318/159341338-033ef33c-d5ed-4c02-b5b4-0333a371ed88.png)
+
+9. Mueve el archivo FICHERO.TXT a la carpeta BASIC 
+10. Abre el archivo EJER.TXT y borra la primera frase; almacena el nuevo archivo con el nombre NUEVO.TXT dentro de la carpeta BASIC 
+11. Copia el archivo NUEVO.TXT en la carpeta NOTAS 
+12. ¿Cuántos archivos hay en la carpeta BASIC? ¿Y en NOTAS?
 
 ## EJERCICIO 3 
 ### Indica en cada caso las órdenes utilizadas: 
