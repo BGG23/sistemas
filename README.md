@@ -61,27 +61,42 @@ siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la est
 
 ![image](https://user-images.githubusercontent.com/91567318/159337418-88a81555-4301-4052-b244-2bc1f3a0ec56.png)
 
-4. Borra el archivo almacenado en la carpeta TEXTOS
+3. Borra el archivo almacenado en la carpeta TEXTOS
 
 ![image](https://user-images.githubusercontent.com/91567318/159338001-243b20ca-6810-444f-9067-66a97db99014.png)
 
-5. Añade el siguiente párrafo al archivo EJER.TXT:
+4. Añade el siguiente párrafo al archivo EJER.TXT:
 “Cada archivo tiene un nombre y una extensión que los distingue del resto de archivos”.
 
 ![image](https://user-images.githubusercontent.com/91567318/159340546-73c93c2d-5ba9-4b2d-a74a-f2db7c9729a4.png)
 
-6. Copia el archivo EJER.TXT en la carpeta BASIC 
+5. Copia el archivo EJER.TXT en la carpeta BASIC 
 
 ![image](https://user-images.githubusercontent.com/91567318/159340960-3f475438-37aa-4b57-9bf4-cac80babc4e8.png)
 
-7. Cambia el nombre del archivo almacenado en AGENDA por FICHERO.TXT
+6. Cambia el nombre del archivo almacenado en AGENDA por FICHERO.TXT
 
 ![image](https://user-images.githubusercontent.com/91567318/159341338-033ef33c-d5ed-4c02-b5b4-0333a371ed88.png)
 
-9. Mueve el archivo FICHERO.TXT a la carpeta BASIC 
-10. Abre el archivo EJER.TXT y borra la primera frase; almacena el nuevo archivo con el nombre NUEVO.TXT dentro de la carpeta BASIC 
-11. Copia el archivo NUEVO.TXT en la carpeta NOTAS 
-12. ¿Cuántos archivos hay en la carpeta BASIC? ¿Y en NOTAS?
+7. Mueve el archivo FICHERO.TXT a la carpeta BASIC 
+
+![image](https://user-images.githubusercontent.com/91567318/159346757-c03cf518-1ee0-467b-8ac2-4111cdec886b.png)
+
+8. Abre el archivo EJER.TXT y borra la primera frase; almacena el nuevo archivo con el nombre NUEVO.TXT dentro de la carpeta BASIC.
+
+Borramos lo subrayado 
+![image](https://user-images.githubusercontent.com/91567318/159347315-3c320044-e3ef-4a77-a0d9-a7fd28440765.png)
+Y ahora le cambiamos el nombre
+![image](https://user-images.githubusercontent.com/91567318/159347566-21f5c98e-9051-4e5a-9575-3fccef11d712.png)
+
+9. Copia el archivo NUEVO.TXT en la carpeta NOTAS
+
+![image](https://user-images.githubusercontent.com/91567318/159347912-d4f34cd9-69ce-49ea-9e51-09bbdf53da35.png)
+
+10. ¿Cuántos archivos hay en la carpeta BASIC? ¿Y en NOTAS?
+
+En la carpeta Basic 2 y en la de Notas 1
+![image](https://user-images.githubusercontent.com/91567318/159348085-2a62d709-8664-4958-aaaf-a62c4463d00b.png)
 
 ## EJERCICIO 3 
 ### Indica en cada caso las órdenes utilizadas: 
