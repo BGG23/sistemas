@@ -1,4 +1,4 @@
-c# Sistemas 
+# Sistemas Infromaticos
 ## EJERCICIO 1 - Belén Gamero García DAW 
 ### Indica en cada caso las órdenes utilizadas: 
 1. Crea la siguiente estructura de carpetas:
