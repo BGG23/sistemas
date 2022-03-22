@@ -114,7 +114,7 @@ En la carpeta Basic 2 y en la de Notas 1
 
 ![image](https://user-images.githubusercontent.com/91567318/159526953-335506e3-0b4b-4683-8022-93da06a63339.png)
 
-5. Utilizando el editor de MS-DOS crea el siguiente archivo de texto y guárdalo con el nombre TYCHO.TXT dentro de la carpeta DATOS1 
+4. Utilizando el editor de MS-DOS crea el siguiente archivo de texto y guárdalo con el nombre TYCHO.TXT dentro de la carpeta DATOS1 
 “La importancia de Tycho Brahe (1546-1601) es debida a sus trabajos observacionales, que registraron posiciones notables del Sol, la Luna y los planetas” 
 
 ![image](https://user-images.githubusercontent.com/91567318/159527246-76cde79c-caf8-452b-a30d-d057c70d5595.png)
@@ -149,7 +149,9 @@ En la carpeta Basic 2 y en la de Notas 1
 ---
 ## EJERCICIO 4
 ### Indica en cada caso las órdenes utilizadas: 
-1. Crea en la carpeta raíz de la unidad A: una carpeta denominada TECINFO
+1. Crea en la carpeta raíz de la unidad A: una carpeta denominada TECINFO.
+
+Hice toda la practica en una maquina virtual de Oraclevirtualbox y no tengo unidad A asi que cree una carpeta llamada "A" en la carpta raiz llamada "EJERCICIO_1"
   
 2. Crea dentro de TECINFO el siguiente archivo de texto y llámalo HARD.TXT 
 “El HARDWARE está constituido por los elementos físicos del ordenador. Consta esencialmente de componentes electrónicos que proporcionan el soporte necesario para la interpretación y ejecución de las operaciones elementales que realiza el ordenador” 
