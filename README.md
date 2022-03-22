@@ -152,14 +152,30 @@ En la carpeta Basic 2 y en la de Notas 1
 1. Crea en la carpeta raíz de la unidad A: una carpeta denominada TECINFO.
 
 Hice toda la practica en una maquina virtual de Oraclevirtualbox y no tengo unidad A asi que cree una carpeta llamada "A" en la carpta raiz llamada "EJERCICIO_1"
-  
+![image](https://user-images.githubusercontent.com/91567318/159553295-58ac8015-8981-4c71-8304-af1ca0a221df.png)
+
 2. Crea dentro de TECINFO el siguiente archivo de texto y llámalo HARD.TXT 
-“El HARDWARE está constituido por los elementos físicos del ordenador. Consta esencialmente de componentes electrónicos que proporcionan el soporte necesario para la interpretación y ejecución de las operaciones elementales que realiza el ordenador” 
+“El HARDWARE está constituido por los elementos físicos del ordenador. Consta esencialmente de componentes electrónicos que proporcionan el soporte necesario para la interpretación y ejecución de las operaciones elementales que realiza el ordenador”
+
+![image](https://user-images.githubusercontent.com/91567318/159553712-8db735d6-3592-4da8-9731-7c792107c503.png)
+ 
 3. Crea dentro de TECINFO el siguiente archivo de texto y llámalo SOFT.TXT 
-“El SOFTWARE es el conjunto de elementos lógicos necesarios para que el ordenador realice las funciones que se le encomiendan. Está formado por los programas, es decir, por un conjunto ordenado de instrucciones, comprensibles por la máquina, que permiten desarrollar tareas concretas”  
+“El SOFTWARE es el conjunto de elementos lógicos necesarios para que el ordenador realice las funciones que se le encomiendan. Está formado por los programas, es decir, por un conjunto ordenado de instrucciones, comprensibles por la máquina, que permiten desarrollar tareas concretas”
+
+![image](https://user-images.githubusercontent.com/91567318/159554056-b53b990b-20c8-4296-9225-fd8e54d6b3df.png)
+  
 4. Mueve el contenido de TECINFO a la carpeta APLI del disquete A utilizado para realizar los ejercicios anteriores 
+
+![image](https://user-images.githubusercontent.com/91567318/159555994-8d714ab1-e9cc-42b3-8057-7e3a349582ab.png)
+
 5. Crea un nuevo archivo formado por la unión de HARD.TXT y SOFT.TXT, sin volver a escribir el texto, y guárdalo en la carpeta AGENDA con el nombre ORDER.TXT 
-6. Elimina la carpeta TECINFO 
+
+![image](https://user-images.githubusercontent.com/91567318/159556563-130cd50b-8154-4636-8a8f-00abe3b4da51.png)
+
+6. Elimina la carpeta TECINFO
+
+![image](https://user-images.githubusercontent.com/91567318/159556732-f319c9d8-875a-473d-bca0-bf138dec8e51.png)
+
 7. Copia a la vez los archivos HARD.TXT y SOFT.TXT en la carpeta VARIOS 
 8. Cambia la extensión de los archivos contenidos en AGENDA por .TYP 
 9. Cambia la primera letra del nombre de todos los archivos del directorio APLI que empiecen por la letra C y tengan extensión DOC de forma que empiecen con la letra S 
