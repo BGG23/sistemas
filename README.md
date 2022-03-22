@@ -152,6 +152,7 @@ En la carpeta Basic 2 y en la de Notas 1
 1. Crea en la carpeta raíz de la unidad A: una carpeta denominada TECINFO.
 
 Hice toda la practica en una maquina virtual de Oraclevirtualbox y no tengo unidad A asi que cree una carpeta llamada "A" en la carpta raiz llamada "EJERCICIO_1"
+
 ![image](https://user-images.githubusercontent.com/91567318/159553295-58ac8015-8981-4c71-8304-af1ca0a221df.png)
 
 2. Crea dentro de TECINFO el siguiente archivo de texto y llámalo HARD.TXT 
