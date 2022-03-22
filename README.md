@@ -1,4 +1,4 @@
-# Sistemas Infromaticos
+# Sistemas Infromáticos
 ## EJERCICIO 1 - Belén Gamero García DAW 
 ### Indica en cada caso las órdenes utilizadas: 
 1. Crea la siguiente estructura de carpetas:
@@ -190,3 +190,5 @@ Hice toda la practica en una maquina virtual de Oraclevirtualbox y no tengo unid
 10. Copia los archivos contenidos en la carpeta APLI que tengan extensión DOC en la carpeta AGENDA.
 
 - Este punto no se puede realizar ya que en ningún momento anterior hemos creado ningún archivo con la extensión '.DOC' en lo cual si no existe no podemos hacer ninguna modificación.
+
+---
