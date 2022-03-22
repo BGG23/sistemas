@@ -174,9 +174,19 @@ Hice toda la practica en una maquina virtual de Oraclevirtualbox y no tengo unid
 
 6. Elimina la carpeta TECINFO
 
-![image](https://user-images.githubusercontent.com/91567318/159556732-f319c9d8-875a-473d-bca0-bf138dec8e51.png). 
+![image](https://user-images.githubusercontent.com/91567318/159556732-f319c9d8-875a-473d-bca0-bf138dec8e51.png)
 
-7. Copia a la vez los archivos HARD.TXT y SOFT.TXT en la carpeta VARIOS 
-8. Cambia la extensión de los archivos contenidos en AGENDA por .TYP 
-9. Cambia la primera letra del nombre de todos los archivos del directorio APLI que empiecen por la letra C y tengan extensión DOC de forma que empiecen con la letra S 
-10. Copia los archivos contenidos en la carpeta APLI que tengan extensión DOC en la carpeta AGENDA
+7. Copia a la vez los archivos HARD.TXT y SOFT.TXT en la carpeta VARIOS
+
+- Este punto no s epuede realizar ya que anteriormente en el punto 6 eliminamos la unica carpeta que contenia esos archivos.
+
+8. Cambia la extensión de los archivos contenidos en AGENDA por .TYP
+![image](https://user-images.githubusercontent.com/91567318/159573027-8c07d8cd-7a5d-47dc-9380-fd0ce5a77416.png)
+ 
+9. Cambia la primera letra del nombre de todos los archivos del directorio APLI que empiecen por la letra C y tengan extensión DOC de forma que empiecen con la letra S.
+
+- Este punto no se puede realizar ya que en ningun momento anterior hemos creado ningun archivo con la extension '.DOC' en lo cual si no existe no podemos hacer ninguna modificacion.
+
+11. Copia los archivos contenidos en la carpeta APLI que tengan extensión DOC en la carpeta AGENDA.
+
+- Este punto no se puede realizar ya que en ningun momento anterior hemos creado ningun archivo con la extension '.DOC' en lo cual si no existe no podemos hacer ninguna modificacion
