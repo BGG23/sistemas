@@ -1,6 +1,7 @@
 # Sistemas Infromáticos
 ## EJERCICIO 1 - Belén Gamero García DAW 
 ### Indica en cada caso las órdenes utilizadas: 
+
 1. Crea la siguiente estructura de carpetas:
 
 ![image](https://user-images.githubusercontent.com/91567318/159172735-864e2496-e592-4f15-9e47-24d273d9a706.png)
@@ -38,18 +39,22 @@
 ![image](https://user-images.githubusercontent.com/91567318/159173518-751d3517-612f-4af9-a611-c696eea09fda.png)
 
 10. Borra la carpeta EXCEL CD
+
 ![image](https://user-images.githubusercontent.com/91567318/159173612-a6bb500d-b759-4c47-9026-1e0f922c3a97.png)
 ![image](https://user-images.githubusercontent.com/91567318/159173622-71b50e0d-4e0d-48a7-8370-c5fb59252bed.png)
 
 11. Desde la carpeta raíz, crea en ella una subcarpeta llamada NUEVO 
+
 ![image](https://user-images.githubusercontent.com/91567318/159173662-df217b0b-2eda-4b75-9ef7-ee80d97e90c6.png)
 
 12. Desde PRACT muestra el contenido de WORD 
+
 ![image](https://user-images.githubusercontent.com/91567318/159173793-b3a174da-8efe-400b-9838-a9d8e7604eb9.png)
 
 --- 
 ## EJERCICIO 2 
 ### Indica en cada caso las órdenes utilizadas: 
+
 1. Utilizando el editor de textos de MS-DOS, crea un archivo de texto denominado EJER.TXT, con el
 siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la estructura del ejercicio anterior): 
 
@@ -85,9 +90,10 @@ siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la est
 
 8. Abre el archivo EJER.TXT y borra la primera frase; almacena el nuevo archivo con el nombre NUEVO.TXT dentro de la carpeta BASIC.
 
-Borramos lo subrayado 
+- Borramos lo subrayado 
 ![image](https://user-images.githubusercontent.com/91567318/159347315-3c320044-e3ef-4a77-a0d9-a7fd28440765.png)
-Y ahora le cambiamos el nombre
+
+- Y ahora le cambiamos el nombre
 ![image](https://user-images.githubusercontent.com/91567318/159347566-21f5c98e-9051-4e5a-9575-3fccef11d712.png)
 
 9. Copia el archivo NUEVO.TXT en la carpeta NOTAS
@@ -96,12 +102,13 @@ Y ahora le cambiamos el nombre
 
 10. ¿Cuántos archivos hay en la carpeta BASIC? ¿Y en NOTAS?
 
-En la carpeta Basic 2 y en la de Notas 1
+- En la carpeta Basic 2 y en la de Notas 1
 ![image](https://user-images.githubusercontent.com/91567318/159348085-2a62d709-8664-4958-aaaf-a62c4463d00b.png)
 
 ---
 ## EJERCICIO 3 
 ### Indica en cada caso las órdenes utilizadas: 
+
 1. Borra la carpeta ACCESS y en su lugar crea una nueva carpeta llamada ASTRO.
 
 ![image](https://user-images.githubusercontent.com/91567318/159525820-bdc5ea2d-2960-4b6b-add3-64bb314d9ba3.png)
@@ -140,18 +147,20 @@ En la carpeta Basic 2 y en la de Notas 1
  
 9. Abre el archivo KEPLER.TXT almacenado en la carpeta CIENCIA y añade el siguiente texto: 
 “Kepler aplicó sus teorías a los satélites de Júpiter, descubiertos por Galileo a través de un pequeño telescopio, cuya introducción en la observación astronómica constituye uno de los hitos de la astronomía.” 
+
 ![image](https://user-images.githubusercontent.com/91567318/159537243-fe3b5418-18a0-43ab-b472-00bbc77fb0a7.png)
 
 10. Cambia el nombre del archivo anterior por el de GALILEO.TXT
-![image](https://user-images.githubusercontent.com/91567318/159537634-2e8d6593-07d3-4c1b-a1aa-550db181ca78.png)
 
+![image](https://user-images.githubusercontent.com/91567318/159537634-2e8d6593-07d3-4c1b-a1aa-550db181ca78.png)
 
 ---
 ## EJERCICIO 4
 ### Indica en cada caso las órdenes utilizadas: 
+
 1. Crea en la carpeta raíz de la unidad A: una carpeta denominada TECINFO.
 
-Hice toda la practica en una maquina virtual de Oraclevirtualbox y no tengo unidad A asi que cree una carpeta llamada "A" en la carpta raiz llamada "EJERCICIO_1"
+- Hice toda la practica en una maquina virtual de Oracle VirtualBox y no tengo unidad A así que cree una carpeta llamada "A" en la carpeta raíz llamada "EJERCICIO_1".
 
 ![image](https://user-images.githubusercontent.com/91567318/159553295-58ac8015-8981-4c71-8304-af1ca0a221df.png)
 
@@ -182,6 +191,7 @@ Hice toda la practica en una maquina virtual de Oraclevirtualbox y no tengo unid
 - Este punto no se puede realizar ya que anteriormente en el punto 6 eliminamos la única carpeta que contenía esos archivos. 
 
 8. Cambia la extensión de los archivos contenidos en AGENDA por .TYP
+
 ![image](https://user-images.githubusercontent.com/91567318/159573027-8c07d8cd-7a5d-47dc-9380-fd0ce5a77416.png)
  
 9. Cambia la primera letra del nombre de todos los archivos del directorio APLI que empiecen por la letra C y tengan extensión DOC de forma que empiecen con la letra S.
