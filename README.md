@@ -134,10 +134,17 @@ En la carpeta Basic 2 y en la de Notas 1
 
 ![image](https://user-images.githubusercontent.com/91567318/159529036-b9d38d6d-d7e1-4d18-b3e5-817de13eafce.png)
 
-8. Crea un nuevo archivo formado por la unión de los dos anteriores (sin volver a escribir el texto) y guárdalo dentro de la carpeta HISTORIA con el nombre TOTAL.TXT 
+8. Crea un nuevo archivo formado por la unión de los dos anteriores (sin volver a escribir el texto) y guárdalo dentro de la carpeta HISTORIA con el nombre TOTAL.TXT
+
+![image](https://user-images.githubusercontent.com/91567318/159536369-20ef31f6-f3ce-4549-a673-190f886b0933.png)
+ 
 9. Abre el archivo KEPLER.TXT almacenado en la carpeta CIENCIA y añade el siguiente texto: 
 “Kepler aplicó sus teorías a los satélites de Júpiter, descubiertos por Galileo a través de un pequeño telescopio, cuya introducción en la observación astronómica constituye uno de los hitos de la astronomía.” 
+![image](https://user-images.githubusercontent.com/91567318/159537243-fe3b5418-18a0-43ab-b472-00bbc77fb0a7.png)
+
 10. Cambia el nombre del archivo anterior por el de GALILEO.TXT
+![image](https://user-images.githubusercontent.com/91567318/159537634-2e8d6593-07d3-4c1b-a1aa-550db181ca78.png)
+
 
 ---
 ## EJERCICIO 4
