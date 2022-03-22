@@ -46,7 +46,8 @@
 
 12. Desde PRACT muestra el contenido de WORD 
 ![image](https://user-images.githubusercontent.com/91567318/159173793-b3a174da-8efe-400b-9838-a9d8e7604eb9.png)
- 
+
+--- 
 ## EJERCICIO 2 
 ### Indica en cada caso las órdenes utilizadas: 
 1. Utilizando el editor de textos de MS-DOS, crea un archivo de texto denominado EJER.TXT, con el
@@ -98,23 +99,47 @@ Y ahora le cambiamos el nombre
 En la carpeta Basic 2 y en la de Notas 1
 ![image](https://user-images.githubusercontent.com/91567318/159348085-2a62d709-8664-4958-aaaf-a62c4463d00b.png)
 
+---
 ## EJERCICIO 3 
 ### Indica en cada caso las órdenes utilizadas: 
 1. Borra la carpeta ACCESS y en su lugar crea una nueva carpeta llamada ASTRO.
 
+![image](https://user-images.githubusercontent.com/91567318/159525820-bdc5ea2d-2960-4b6b-add3-64bb314d9ba3.png)
+
 2. Crea la siguiente estructura de subcarpetas dentro de la carpeta ASTRO 
+
+![image](https://user-images.githubusercontent.com/91567318/159525961-a9bf384c-90fe-46d7-8fa9-345185d96e42.png)
+
 3. Sitúate en la carpeta CIENCIA y desde allí muestra el listado de archivos y subcarpetas de la carpeta HISTORIA 
-4. Utilizando el editor de MS-DOS crea el siguiente archivo de texto y guárdalo con el nombre TYCHO.TXT dentro de la carpeta DATOS1 
+
+![image](https://user-images.githubusercontent.com/91567318/159526953-335506e3-0b4b-4683-8022-93da06a63339.png)
+
+5. Utilizando el editor de MS-DOS crea el siguiente archivo de texto y guárdalo con el nombre TYCHO.TXT dentro de la carpeta DATOS1 
 “La importancia de Tycho Brahe (1546-1601) es debida a sus trabajos observacionales, que registraron posiciones notables del Sol, la Luna y los planetas” 
+
+![image](https://user-images.githubusercontent.com/91567318/159527246-76cde79c-caf8-452b-a30d-d057c70d5595.png)
+
 5. Utilizando de nuevo el editor de textos de MS-DOS crea el siguiente archivo de texto, y guárdalo con el nombre KEPLER.TXT dentro de la carpeta DATOS2 
 “ La información acumulada facilitó a Johannes Kepler (1571-1630) el descubrimiento de las leyes que gobiernan el movimiento de los planetas” 
+
+![image](https://user-images.githubusercontent.com/91567318/159527962-5e542bd2-46c6-4c6e-ba75-fcf728950fbd.png)
+
 6. Copia los archivos TYCHO.TXT y KEPLER.TXT en la carpeta CIENCIA 
+
+![image](https://user-images.githubusercontent.com/91567318/159528157-53eee6cd-ee73-4ae9-852d-cd80f16ed2d7.png)
+![image](https://user-images.githubusercontent.com/91567318/159528432-53c36b13-b3f5-44de-9914-33f032b7fcf2.png)
+![image](https://user-images.githubusercontent.com/91567318/159528621-5f1edced-1b1e-497f-8637-e3d6c64f1cb8.png)
+
 7. Cambia de lugar los archivos almacenados en DATOS1 y DATOS2 de forma que TYCHO.TXT quede guardado dentro DATOS2 y KEPLER.TXT en DATOS1 
+
+![image](https://user-images.githubusercontent.com/91567318/159529036-b9d38d6d-d7e1-4d18-b3e5-817de13eafce.png)
+
 8. Crea un nuevo archivo formado por la unión de los dos anteriores (sin volver a escribir el texto) y guárdalo dentro de la carpeta HISTORIA con el nombre TOTAL.TXT 
 9. Abre el archivo KEPLER.TXT almacenado en la carpeta CIENCIA y añade el siguiente texto: 
 “Kepler aplicó sus teorías a los satélites de Júpiter, descubiertos por Galileo a través de un pequeño telescopio, cuya introducción en la observación astronómica constituye uno de los hitos de la astronomía.” 
 10. Cambia el nombre del archivo anterior por el de GALILEO.TXT
 
+---
 ## EJERCICIO 4
 ### Indica en cada caso las órdenes utilizadas: 
 1. Crea en la carpeta raíz de la unidad A: una carpeta denominada TECINFO
