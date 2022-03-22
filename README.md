@@ -174,7 +174,7 @@ Hice toda la practica en una maquina virtual de Oraclevirtualbox y no tengo unid
 
 6. Elimina la carpeta TECINFO
 
-![image](https://user-images.githubusercontent.com/91567318/159556732-f319c9d8-875a-473d-bca0-bf138dec8e51.png)
+![image](https://user-images.githubusercontent.com/91567318/159556732-f319c9d8-875a-473d-bca0-bf138dec8e51.png). 
 
 7. Copia a la vez los archivos HARD.TXT y SOFT.TXT en la carpeta VARIOS 
 8. Cambia la extensión de los archivos contenidos en AGENDA por .TYP 
