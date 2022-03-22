@@ -88,7 +88,7 @@ siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la est
 
 ![image](https://user-images.githubusercontent.com/91567318/159346757-c03cf518-1ee0-467b-8ac2-4111cdec886b.png)
 
-8. Abre el archivo EJER.TXT y borra la primera frase; almacena el nuevo archivo con el nombre NUEVO.TXT dentro de la carpeta BASIC.
+8. Abre el archivo EJER.TXT y borra la primera frase, almacena el nuevo archivo con el nombre NUEVO.TXT dentro de la carpeta BASIC.
 
 - Borramos lo subrayado 
 ![image](https://user-images.githubusercontent.com/91567318/159347315-3c320044-e3ef-4a77-a0d9-a7fd28440765.png)
