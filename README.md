@@ -86,7 +86,7 @@ siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la est
 
 7. Mueve el archivo FICHERO.TXT a la carpeta BASIC. 
 
-![image](https://user-images.githubusercontent.com/91567318/159346757-c03cf518-1ee0-467b-8ac2-4111cdec886b.png)
+![image](https://user-images.githubusercontent.com/91567318/159766496-7787cd68-78d8-4683-b89d-e0acf42a7e86.png)
 
 8. Abre el archivo EJER.TXT y borra la primera frase, almacena el nuevo archivo con el nombre NUEVO.TXT dentro de la carpeta BASIC.
 
